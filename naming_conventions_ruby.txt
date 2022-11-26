@@ -1,0 +1,21 @@
+-------------------------------------------------------
+PascalCase
+-------------------------------------------------------
+class
+
+module_declartion(module naming)
+
+-------------------------------------------------------
+snake_case
+-------------------------------------------------------
+method and variables
+
+module_import(file naming)
+1.small case
+2.if consists multiple words use snake_case
+3.it should resemble methods and classes defined in it
+
+-------------------------------------------------------
+CAPITALIZED_SNAKE_CASE
+-------------------------------------------------------
+constant

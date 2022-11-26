@@ -1,0 +1,22 @@
+
+camel case :- only first word first letter is small . after that starting letters of
+other words are capitalized
+use-case :- mostly used to name variables
+eg :- concurrentClassModel , trueClassModel
+
+pascal case :- same as camel case , only difference is even the first letter of first word is
+capitalized
+use-case :- often useed in declaring classes in many languages
+eg :- JavaDataBaseObject
+
+snake case :- letters connected by '_'
+use-case :- mostly used to name variables
+eg :- snake_case , string_literal
+
+capitalized snake case (or) screaming snake case :-  same as snake case but with all letters being captial
+use-case :- used to declare constants
+eg :- MAX_CHAR_COUNT
+
+kebab case :- similar to snake case but uses '-' instead of '_'
+use-case :- often used in url's
+eg :- kebab-case-variable
